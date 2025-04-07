@@ -67,7 +67,7 @@ export default function Index() {
               Chat Ease
             </Text>
             <Text style={{ color: "#fff", fontSize: 18, marginBottom: 10 }}>
-              Send Message to WhatsApp without saving number
+              Send Message in WhatsApp without saving number
             </Text>
           </View>
           <View style={styles.row}>
